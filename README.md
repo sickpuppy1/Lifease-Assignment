@@ -1,1 +1,1 @@
-run trial.py in trial01
+trial01->spiders->trial.py
